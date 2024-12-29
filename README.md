@@ -2,4 +2,5 @@
 
 Projeto desenvolvido durante o curso de front-end "Formação Front-end - HTML, CSS, JavaScript, React e +".
 
-- https://gustavoalbonico.github.io/calculadora-imc/
+[Ver mais](https://gustavoalbonico.github.io/calculadora-imc/)
+![calculadora imc](public/calculadora-imc.png)
